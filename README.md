@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 
 # 💫 About Me:
 🔭 I’m currently working on [Privy](https://privy.id/) as backend engineer<br>👯 I’m looking to collaborate on any software engineering project<br>🌱 I'm `currently learning` various software engineering tools and techniques~<br>💬 Ask me about `everything`, and `let's discuss` together<br>⚡ Fun fact, `script is art`
